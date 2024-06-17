@@ -1,4 +1,4 @@
-# Game App (Task)
+# Game App
 
 Node.js (version 14.18 or higher recommended): https://nodejs.org/en/about/previous-releases
 
